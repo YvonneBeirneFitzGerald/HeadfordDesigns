@@ -1153,6 +1153,7 @@ a:hover {
 
 .member-meta {
   padding: 15px;
+  text-align: justify;
 }
 .member-meta h4 {
   margin: 0 0 5px;
