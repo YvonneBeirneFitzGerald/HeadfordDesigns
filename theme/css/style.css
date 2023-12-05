@@ -714,6 +714,10 @@ a:hover {
 .about .block .icon-box h3 {
   color: #afbac4;
 }
+.mission-about {
+  color: #fff;
+  text-align: justify;
+}
 
 /*=================================================================
   About us 2 section
